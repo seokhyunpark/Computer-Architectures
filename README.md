@@ -1,1 +1,2 @@
-# Computer-Architectures
+# 컴퓨터구조 2023학년도 1학기
+## COMP0411-002	
